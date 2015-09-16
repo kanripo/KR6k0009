@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:45.343839
+#+DATE: 2015-08-30 20:40:05.532597
 #+TITLE: 四分律
 #+PROPERTY: CBETA_ID T22n1428
 #+PROPERTY: ID KR6k0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1428
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6k0009_T_047-0913c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 47
 ¶
 ¶
-
- 《四分律》卷第四十七(三分之十一)¶
+《四分律》卷第四十七(三分之十一)¶
 ¶
 姚秦罽賓三藏佛陀耶舍¶
 共竺佛念等譯¶
 
-13滅諍揵度
-:PROPERTIES:
-:head: 滅諍揵度第十六之一
-:END:
-¶
+滅諍揵度第十六之一¶
 
 爾時世尊在舍衛國。時迦留陀夷。與六群比¶
 丘往阿夷羅跋提河中浴。時迦留陀夷。浴¶

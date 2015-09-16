@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:44.741899
+#+DATE: 2015-08-30 20:40:04.849388
 #+TITLE: 四分律
 #+PROPERTY: CBETA_ID T22n1428
 #+PROPERTY: ID KR6k0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1428
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6k0009_T_030-0771b> 
 #+PROPERTY: JUAN 30
 ¶
-
- 《四分律》卷第三十(二分之九明尼戒法)¶
+《四分律》卷第三十(二分之九明尼戒法)¶
 ¶
 姚秦罽賓三藏佛陀耶舍¶
 共竺佛念等譯¶
@@ -186,8 +185,7 @@
 去。共期去而不去。一切突吉羅。比丘突吉¶
 羅。式叉摩那沙彌沙彌尼突吉羅。是謂為犯。¶
 不犯者。或為佛法僧事。或瞻視病事。若囑¶
-而出。或彼僧伽藍破壞。或為火所燒。或為¶
-賊或有惡獸毒蛇在中。或為強力者所執。¶
+而出。或彼僧伽藍破壞。或為火所燒。或為賊或有惡獸毒蛇在中。或為強力者所執。¶
 或為繫縛將去。或命難梵行難不囑而去者¶
 無犯。無犯者。最初未制戒。癡狂心亂痛惱¶
 所纏(六十三)。¶
