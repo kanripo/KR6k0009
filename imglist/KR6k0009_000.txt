@@ -1,0 +1,2 @@
+000-0567a26	TKD 23-0001b	buddhist/K-koreana/23-tif/0000-0099/23_0001_B.TIF
+000-0567b19	TKD 23-0001c	buddhist/K-koreana/23-tif/0000-0099/23_0001_C.TIF
