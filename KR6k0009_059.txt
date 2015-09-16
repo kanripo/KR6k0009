@@ -1,24 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:45.758962
+#+DATE: 2015-08-30 20:40:11.538689
 #+TITLE: 四分律
 #+PROPERTY: CBETA_ID T22n1428
 #+PROPERTY: ID KR6k0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1428
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0009_T_059-1001c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 59
 ¶
 ¶
-
- 《四分律》卷第五十九(第四分之十)¶
+《四分律》卷第五十九(第四分之十)¶
 ¶
 姚秦罽賓三藏佛陀耶舍¶
 共竺佛念等譯¶
-毘尼增一之三¶
+毘尼增一之三一之三¶
 
-爾時世尊在波羅㮈。世尊知而故問阿難。¶
+爾時世尊在波羅[木*奈]。世尊知而故問阿難。¶
 我於穀貴時。慈愍諸比丘故。放捨四事。內¶
 宿內煮自煮自取食。今諸比丘故食耶。阿難¶
 白佛言。故食。佛言阿難。不應食若食如法¶
@@ -604,5 +603,5 @@
 法是毘尼是佛所教。時彼比丘。聞佛略說
 <pb:KR6k0009_T_059-1008b>¶
 已。即獨在靜處思惟。如上所說。¶
-《四分律》卷第五十九¶
+《四分律》卷第五十九九¶
 
